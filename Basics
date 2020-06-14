@@ -4,3 +4,34 @@ Git is
 
 
 Github is
+
+Repository
+
+Commit (or change)
+
+Branches 
+
+Branch - allows you to venture out from a master branch. You can create a branch as you save a commit or when we open the 
+  repository, before we begin the edit. 
+
+Pull Request - a request to merge the branch to the master branch. 
+
+Merge
+
+Forks and Pull Requests
+
+Github Issues
+
+Introduction to the Command Line
+
+Cloning Repo and Push/Pull
+
+git init and git add
+
+Github Oages
+
+Resolving Merge Conflicts
+
+Git Remotes
+
+Github Pages for Hosting p5.js Sketches ( I don't think this is necessary right now).
